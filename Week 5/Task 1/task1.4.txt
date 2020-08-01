@@ -1,0 +1,6 @@
+Hi!
+This is the text file to be read by the python code for 'Text to Speech'. My name is Vinamra Baghel.
+When I get sad, I stop being sad and be awesome instead. True story.
+If you think about it, a lie is just a great story that someone ruined with the truth.
+Haha, stay awesome guys!
+
